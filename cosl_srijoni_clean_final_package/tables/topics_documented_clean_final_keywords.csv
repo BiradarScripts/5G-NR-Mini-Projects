@@ -1,0 +1,401 @@
+variant,model_type,topic,rank,keyword,weight
+documented_clean_final,NMF_FALLBACK,0,1,act,0.3906506269606946
+documented_clean_final,NMF_FALLBACK,0,2,recruitment,0.36412293793134903
+documented_clean_final,NMF_FALLBACK,0,3,service,0.3532189226064941
+documented_clean_final,NMF_FALLBACK,0,4,order,0.32184385700745766
+documented_clean_final,NMF_FALLBACK,0,5,recruitment rules,0.2630747282848486
+documented_clean_final,NMF_FALLBACK,0,6,early,0.2535261019740514
+documented_clean_final,NMF_FALLBACK,0,7,date,0.24269202128777756
+documented_clean_final,NMF_FALLBACK,0,8,amend,0.2422548409090635
+documented_clean_final,NMF_FALLBACK,0,9,effect,0.24112366770719643
+documented_clean_final,NMF_FALLBACK,0,10,desire,0.2340180970737396
+documented_clean_final,NMF_FALLBACK,0,11,retrospective,0.23356286035130025
+documented_clean_final,NMF_FALLBACK,0,12,fifth,0.22917758094705487
+documented_clean_final,NMF_FALLBACK,0,13,law,0.21999175705675889
+documented_clean_final,NMF_FALLBACK,0,14,affairs,0.21424390031799356
+documented_clean_final,NMF_FALLBACK,0,15,early date,0.21240851753702694
+documented_clean_final,NMF_FALLBACK,0,16,company,0.20920039046150746
+documented_clean_final,NMF_FALLBACK,0,17,shipping,0.20900560679287805
+documented_clean_final,NMF_FALLBACK,0,18,class,0.2056520423707199
+documented_clean_final,NMF_FALLBACK,0,19,sub,0.20449470892977348
+documented_clean_final,NMF_FALLBACK,0,20,indian,0.20266750647216789
+documented_clean_final,NMF_FALLBACK,1,1,recruitment,0.4916557341391825
+documented_clean_final,NMF_FALLBACK,1,2,recruitment rules,0.42666413420116356
+documented_clean_final,NMF_FALLBACK,1,3,tasking,0.3132340070560016
+documented_clean_final,NMF_FALLBACK,1,4,multi tasking,0.3132340070560016
+documented_clean_final,NMF_FALLBACK,1,5,tasking staff,0.3082960335736952
+documented_clean_final,NMF_FALLBACK,1,6,posts,0.3056896199504977
+documented_clean_final,NMF_FALLBACK,1,7,group,0.29896496181633864
+documented_clean_final,NMF_FALLBACK,1,8,multi,0.276469239348313
+documented_clean_final,NMF_FALLBACK,1,9,post,0.27137220190910233
+documented_clean_final,NMF_FALLBACK,1,10,xx,0.2521841467427153
+documented_clean_final,NMF_FALLBACK,1,11,xx xx,0.24453034567834164
+documented_clean_final,NMF_FALLBACK,1,12,year,0.23011184670624765
+documented_clean_final,NMF_FALLBACK,1,13,gsr,0.219238804006494
+documented_clean_final,NMF_FALLBACK,1,14,rules gsr,0.20640608074740227
+documented_clean_final,NMF_FALLBACK,1,15,laboratory,0.19740845610828564
+documented_clean_final,NMF_FALLBACK,1,16,probation,0.19217916874427632
+documented_clean_final,NMF_FALLBACK,1,17,short title,0.1849885714274483
+documented_clean_final,NMF_FALLBACK,1,18,defence,0.1751833133145078
+documented_clean_final,NMF_FALLBACK,1,19,title,0.174799093123953
+documented_clean_final,NMF_FALLBACK,1,20,grade,0.1720291857715846
+documented_clean_final,NMF_FALLBACK,2,1,act,0.7926013726052299
+documented_clean_final,NMF_FALLBACK,2,2,framing,0.25839104328683893
+documented_clean_final,NMF_FALLBACK,2,3,framed,0.23097189267643883
+documented_clean_final,NMF_FALLBACK,2,4,national,0.21782314225172048
+documented_clean_final,NMF_FALLBACK,2,5,real estate,0.2137856974655094
+documented_clean_final,NMF_FALLBACK,2,6,aiims,0.20545737979038228
+documented_clean_final,NMF_FALLBACK,2,7,framing rules,0.18592377561775617
+documented_clean_final,NMF_FALLBACK,2,8,delay,0.18082689399373442
+documented_clean_final,NMF_FALLBACK,2,9,laid,0.17851291606139383
+documented_clean_final,NMF_FALLBACK,2,10,estate,0.1686543489532826
+documented_clean_final,NMF_FALLBACK,2,11,acts,0.16804290488119208
+documented_clean_final,NMF_FALLBACK,2,12,laying,0.16132769826381588
+documented_clean_final,NMF_FALLBACK,2,13,urban,0.1552691509535593
+documented_clean_final,NMF_FALLBACK,2,14,real,0.1497897235570182
+documented_clean_final,NMF_FALLBACK,2,15,chairperson,0.1490345279909827
+documented_clean_final,NMF_FALLBACK,2,16,rera,0.14756949023166016
+documented_clean_final,NMF_FALLBACK,2,17,states,0.14252706585431457
+documented_clean_final,NMF_FALLBACK,2,18,fee,0.13745607577421165
+documented_clean_final,NMF_FALLBACK,2,19,gazette,0.13395800992248072
+documented_clean_final,NMF_FALLBACK,2,20,law,0.12762821777583838
+documented_clean_final,NMF_FALLBACK,3,1,contained thirteenth,0.3583624349480524
+documented_clean_final,NMF_FALLBACK,3,2,science technology,0.2445488258319695
+documented_clean_final,NMF_FALLBACK,3,3,thirteenth,0.22175608276702194
+documented_clean_final,NMF_FALLBACK,3,4,science,0.19222053765984487
+documented_clean_final,NMF_FALLBACK,3,5,technology,0.180961137747967
+documented_clean_final,NMF_FALLBACK,3,6,hissar group,0.18079860796824382
+documented_clean_final,NMF_FALLBACK,3,7,hissar,0.18079860796824382
+documented_clean_final,NMF_FALLBACK,3,8,technical rules,0.17442523099330937
+documented_clean_final,NMF_FALLBACK,3,9,makhana,0.1728265508739745
+documented_clean_final,NMF_FALLBACK,3,10,makhana grading,0.16925973811656475
+documented_clean_final,NMF_FALLBACK,3,11,scientific technical,0.16906921644394302
+documented_clean_final,NMF_FALLBACK,3,12,technology group,0.1645634008476983
+documented_clean_final,NMF_FALLBACK,3,13,thirteenth 14th,0.1615208552467276
+documented_clean_final,NMF_FALLBACK,3,14,action,0.15955066101313828
+documented_clean_final,NMF_FALLBACK,3,15,electrician,0.14419638008074256
+documented_clean_final,NMF_FALLBACK,3,16,sheep breeding,0.1420887378847925
+documented_clean_final,NMF_FALLBACK,3,17,farm hissar,0.1420887378847925
+documented_clean_final,NMF_FALLBACK,3,18,action contained,0.14146904521324813
+documented_clean_final,NMF_FALLBACK,3,19,group gazetted,0.1387519306453722
+documented_clean_final,NMF_FALLBACK,3,20,breeding farm,0.13707920221217235
+documented_clean_final,NMF_FALLBACK,4,1,ifs,0.6202415980637475
+documented_clean_final,NMF_FALLBACK,4,2,service,0.5068438405997494
+documented_clean_final,NMF_FALLBACK,4,3,promotion,0.4796039492388204
+documented_clean_final,NMF_FALLBACK,4,4,cadre,0.42458931862441335
+documented_clean_final,NMF_FALLBACK,4,5,grade,0.3725983914378108
+documented_clean_final,NMF_FALLBACK,4,6,officers,0.3651158659516416
+documented_clean_final,NMF_FALLBACK,4,7,foreign service,0.36464970077794734
+documented_clean_final,NMF_FALLBACK,4,8,indian foreign,0.3494786115882497
+documented_clean_final,NMF_FALLBACK,4,9,foreign,0.34595322004884654
+documented_clean_final,NMF_FALLBACK,4,10,external,0.3376957592790053
+documented_clean_final,NMF_FALLBACK,4,11,external affairs,0.336724962354997
+documented_clean_final,NMF_FALLBACK,4,12,indian,0.24822921450314603
+documented_clean_final,NMF_FALLBACK,4,13,posts,0.23452835526732022
+documented_clean_final,NMF_FALLBACK,4,14,seniority,0.21411013745999052
+documented_clean_final,NMF_FALLBACK,4,15,recruitment,0.2124383498397706
+documented_clean_final,NMF_FALLBACK,4,16,promotion rules,0.19420307117085325
+documented_clean_final,NMF_FALLBACK,4,17,recruitment cadre,0.1903707481621281
+documented_clean_final,NMF_FALLBACK,4,18,cadre seniority,0.18871861624528324
+documented_clean_final,NMF_FALLBACK,4,19,affairs,0.16748009866880084
+documented_clean_final,NMF_FALLBACK,4,20,secretary,0.1647488682290975
+documented_clean_final,NMF_FALLBACK,5,1,tobacco,1.4071954547007264
+documented_clean_final,NMF_FALLBACK,5,2,tobacco products,0.37060461688957713
+documented_clean_final,NMF_FALLBACK,5,3,cigarettes,0.3313402597525809
+documented_clean_final,NMF_FALLBACK,5,4,bidi,0.2887359571305804
+documented_clean_final,NMF_FALLBACK,5,5,health,0.267715216761274
+documented_clean_final,NMF_FALLBACK,5,6,warnings,0.2659445212658568
+documented_clean_final,NMF_FALLBACK,5,7,products,0.24925807899620156
+documented_clean_final,NMF_FALLBACK,5,8,smoking,0.2300162985522388
+documented_clean_final,NMF_FALLBACK,5,9,warning,0.2164761008007615
+documented_clean_final,NMF_FALLBACK,5,10,beedi,0.21641063718058703
+documented_clean_final,NMF_FALLBACK,5,11,cigarette,0.21183247681167933
+documented_clean_final,NMF_FALLBACK,5,12,pictorial,0.1932832990696192
+documented_clean_final,NMF_FALLBACK,5,13,health warnings,0.15035862968715205
+documented_clean_final,NMF_FALLBACK,5,14,farmers,0.1436023655162343
+documented_clean_final,NMF_FALLBACK,5,15,illicit,0.14135911185935082
+documented_clean_final,NMF_FALLBACK,5,16,livelihood,0.13336310686076228
+documented_clean_final,NMF_FALLBACK,5,17,tobacco control,0.12957863019648702
+documented_clean_final,NMF_FALLBACK,5,18,crops,0.12740916832654736
+documented_clean_final,NMF_FALLBACK,5,19,health warning,0.12574366874592102
+documented_clean_final,NMF_FALLBACK,5,20,package,0.11764537101266964
+documented_clean_final,NMF_FALLBACK,6,1,tbe,1.3359370407752202
+documented_clean_final,NMF_FALLBACK,6,2,tbat,0.2565304288613188
+documented_clean_final,NMF_FALLBACK,6,3,tile,0.20432173980437532
+documented_clean_final,NMF_FALLBACK,6,4,act,0.17499075575597242
+documented_clean_final,NMF_FALLBACK,6,5,tea,0.15953909147039083
+documented_clean_final,NMF_FALLBACK,6,6,tho,0.14786721723939023
+documented_clean_final,NMF_FALLBACK,6,7,corporation,0.1450671318785886
+documented_clean_final,NMF_FALLBACK,6,8,law,0.1429582203081606
+documented_clean_final,NMF_FALLBACK,6,9,matter,0.14050198034895317
+documented_clean_final,NMF_FALLBACK,6,10,food,0.13875354561027578
+documented_clean_final,NMF_FALLBACK,6,11,sbri,0.1343920160349324
+documented_clean_final,NMF_FALLBACK,6,12,representative,0.12941355412050715
+documented_clean_final,NMF_FALLBACK,6,13,stated,0.12822195542295567
+documented_clean_final,NMF_FALLBACK,6,14,th,0.12056209710695137
+documented_clean_final,NMF_FALLBACK,6,15,regulation,0.11715914726388185
+documented_clean_final,NMF_FALLBACK,6,16,civil,0.11337133314685374
+documented_clean_final,NMF_FALLBACK,6,17,seventh,0.11245919900806345
+documented_clean_final,NMF_FALLBACK,6,18,forest,0.11211490658060679
+documented_clean_final,NMF_FALLBACK,6,19,date,0.11133755207304477
+documented_clean_final,NMF_FALLBACK,6,20,dot,0.10804163626351597
+documented_clean_final,NMF_FALLBACK,7,1,xx,0.6135216196045854
+documented_clean_final,NMF_FALLBACK,7,2,xx xx,0.5526355307462593
+documented_clean_final,NMF_FALLBACK,7,3,customs,0.29434198880783347
+documented_clean_final,NMF_FALLBACK,7,4,commissioner customs,0.23822705379191464
+documented_clean_final,NMF_FALLBACK,7,5,2021,0.14623386979969902
+documented_clean_final,NMF_FALLBACK,7,6,commissioner,0.1417377817582266
+documented_clean_final,NMF_FALLBACK,7,7,manifest,0.12865151130429836
+documented_clean_final,NMF_FALLBACK,7,8,transhipment,0.12120693538299633
+documented_clean_final,NMF_FALLBACK,7,9,chairperson,0.11387763681039206
+documented_clean_final,NMF_FALLBACK,7,10,seventeenth,0.11326422505672762
+documented_clean_final,NMF_FALLBACK,7,11,carrier,0.11218154582492947
+documented_clean_final,NMF_FALLBACK,7,12,beas management,0.11129245518436039
+documented_clean_final,NMF_FALLBACK,7,13,bhakra beas,0.11122071841955004
+documented_clean_final,NMF_FALLBACK,7,14,beas,0.1111489816547397
+documented_clean_final,NMF_FALLBACK,7,15,gazette,0.09945950635894164
+documented_clean_final,NMF_FALLBACK,7,16,cargo manifest,0.09863102415385917
+documented_clean_final,NMF_FALLBACK,7,17,manifest transhipment,0.09863102415385917
+documented_clean_final,NMF_FALLBACK,7,18,sea cargo,0.09863102415385917
+documented_clean_final,NMF_FALLBACK,7,19,bhakra,0.09690027465793974
+documented_clean_final,NMF_FALLBACK,7,20,authorised carrier,0.09669031829975779
+documented_clean_final,NMF_FALLBACK,8,1,medical,0.5822983440117819
+documented_clean_final,NMF_FALLBACK,8,2,ayush,0.4710434128660094
+documented_clean_final,NMF_FALLBACK,8,3,ayurveda,0.2775157939387353
+documented_clean_final,NMF_FALLBACK,8,4,council,0.2594955663409795
+documented_clean_final,NMF_FALLBACK,8,5,homeopathy,0.23042435070424197
+documented_clean_final,NMF_FALLBACK,8,6,medicine,0.22171598401375703
+documented_clean_final,NMF_FALLBACK,8,7,colleges,0.22115127663369646
+documented_clean_final,NMF_FALLBACK,8,8,students,0.21398647367705895
+documented_clean_final,NMF_FALLBACK,8,9,medical council,0.19097329558593293
+documented_clean_final,NMF_FALLBACK,8,10,doctors,0.19046209090687172
+documented_clean_final,NMF_FALLBACK,8,11,education,0.16594832984989352
+documented_clean_final,NMF_FALLBACK,8,12,medical education,0.153825090121736
+documented_clean_final,NMF_FALLBACK,8,13,medical colleges,0.15361367956952635
+documented_clean_final,NMF_FALLBACK,8,14,admission,0.14085852551752057
+documented_clean_final,NMF_FALLBACK,8,15,council india,0.13621294229931868
+documented_clean_final,NMF_FALLBACK,8,16,npa,0.1331594736196912
+documented_clean_final,NMF_FALLBACK,8,17,indian medicine,0.1308175070344438
+documented_clean_final,NMF_FALLBACK,8,18,graduate,0.12980862570307491
+documented_clean_final,NMF_FALLBACK,8,19,degree,0.12364515255272585
+documented_clean_final,NMF_FALLBACK,8,20,research,0.1182806857571583
+documented_clean_final,NMF_FALLBACK,9,1,act,0.4931248162785126
+documented_clean_final,NMF_FALLBACK,9,2,bye,0.3331281774435938
+documented_clean_final,NMF_FALLBACK,9,3,board,0.25445198496269417
+documented_clean_final,NMF_FALLBACK,9,4,cantonment,0.2486708289545558
+documented_clean_final,NMF_FALLBACK,9,5,bye laws,0.2165088678274449
+documented_clean_final,NMF_FALLBACK,9,6,order,0.21149847526527651
+documented_clean_final,NMF_FALLBACK,9,7,laws,0.21079050569870247
+documented_clean_final,NMF_FALLBACK,9,8,orders,0.21042455089061549
+documented_clean_final,NMF_FALLBACK,9,9,state,0.20558944798055273
+documented_clean_final,NMF_FALLBACK,9,10,laid,0.1872845945953301
+documented_clean_final,NMF_FALLBACK,9,11,table,0.17804643017437474
+documented_clean_final,NMF_FALLBACK,9,12,power,0.1742189396746679
+documented_clean_final,NMF_FALLBACK,9,13,fees,0.16970543684604014
+documented_clean_final,NMF_FALLBACK,9,14,57,0.1620327042862461
+documented_clean_final,NMF_FALLBACK,9,15,clause,0.16006540978517395
+documented_clean_final,NMF_FALLBACK,9,16,control,0.15857413468482612
+documented_clean_final,NMF_FALLBACK,9,17,given,0.14190110844211393
+documented_clean_final,NMF_FALLBACK,9,18,bye law,0.13960510893807745
+documented_clean_final,NMF_FALLBACK,9,19,shall,0.1355072560909134
+documented_clean_final,NMF_FALLBACK,9,20,law,0.1329351611575363
+documented_clean_final,NMF_FALLBACK,10,1,irdai,0.5476968817544113
+documented_clean_final,NMF_FALLBACK,10,2,insurance,0.2854301689261556
+documented_clean_final,NMF_FALLBACK,10,3,solvency,0.2668867957466357
+documented_clean_final,NMF_FALLBACK,10,4,solvency margin,0.25895768338482905
+documented_clean_final,NMF_FALLBACK,10,5,regulatory development,0.256353432308349
+documented_clean_final,NMF_FALLBACK,10,6,insurance regulatory,0.256353432308349
+documented_clean_final,NMF_FALLBACK,10,7,actuary,0.2559635380587338
+documented_clean_final,NMF_FALLBACK,10,8,appointed actuary,0.25452874494721306
+documented_clean_final,NMF_FALLBACK,10,9,liabilities,0.2497059784628376
+documented_clean_final,NMF_FALLBACK,10,10,assets,0.2261044867638206
+documented_clean_final,NMF_FALLBACK,10,11,assets liabilities,0.22331620213324524
+documented_clean_final,NMF_FALLBACK,10,12,margin,0.22182284668957508
+documented_clean_final,NMF_FALLBACK,10,13,liabilities solvency,0.2181971192555669
+documented_clean_final,NMF_FALLBACK,10,14,authority india,0.21185098494806623
+documented_clean_final,NMF_FALLBACK,10,15,xx,0.20744599706328143
+documented_clean_final,NMF_FALLBACK,10,16,development authority,0.20639054869364076
+documented_clean_final,NMF_FALLBACK,10,17,insurance business,0.20620674296623429
+documented_clean_final,NMF_FALLBACK,10,18,india assets,0.2012325195652139
+documented_clean_final,NMF_FALLBACK,10,19,regulatory,0.17901109350420247
+documented_clean_final,NMF_FALLBACK,10,20,financial services,0.1757643937571312
+documented_clean_final,NMF_FALLBACK,11,1,pension,0.7024706171380491
+documented_clean_final,NMF_FALLBACK,11,2,rbi,0.6742741137515678
+documented_clean_final,NMF_FALLBACK,11,3,pension scheme,0.3343387293279882
+documented_clean_final,NMF_FALLBACK,11,4,employees,0.2518673238639495
+documented_clean_final,NMF_FALLBACK,11,5,scheme,0.24768560451320024
+documented_clean_final,NMF_FALLBACK,11,6,cpf,0.2146823412565816
+documented_clean_final,NMF_FALLBACK,11,7,option,0.17500117445536542
+documented_clean_final,NMF_FALLBACK,11,8,rbi act,0.1479118520737936
+documented_clean_final,NMF_FALLBACK,11,9,rbi pension,0.1473007239285801
+documented_clean_final,NMF_FALLBACK,11,10,salary,0.1414530349009686
+documented_clean_final,NMF_FALLBACK,11,11,average,0.13251730391925903
+documented_clean_final,NMF_FALLBACK,11,12,employees pension,0.12015615704547496
+documented_clean_final,NMF_FALLBACK,11,13,average salary,0.11586077429744511
+documented_clean_final,NMF_FALLBACK,11,14,60 months,0.10899962096440038
+documented_clean_final,NMF_FALLBACK,11,15,fund,0.10212594293648113
+documented_clean_final,NMF_FALLBACK,11,16,bank,0.10189704969812372
+documented_clean_final,NMF_FALLBACK,11,17,months average,0.09998838968397837
+documented_clean_final,NMF_FALLBACK,11,18,wage,0.0995310706339861
+documented_clean_final,NMF_FALLBACK,11,19,15000,0.09215790443468483
+documented_clean_final,NMF_FALLBACK,11,20,12 months,0.08919140310546277
+documented_clean_final,NMF_FALLBACK,12,1,recruitment,0.3110961093401958
+documented_clean_final,NMF_FALLBACK,12,2,recruitment rules,0.258162496488308
+documented_clean_final,NMF_FALLBACK,12,3,probation,0.196419235006684
+documented_clean_final,NMF_FALLBACK,12,4,gsr,0.19059360300587314
+documented_clean_final,NMF_FALLBACK,12,5,direct recruits,0.18745280302496867
+documented_clean_final,NMF_FALLBACK,12,6,promotees,0.1871823263063941
+documented_clean_final,NMF_FALLBACK,12,7,recruits,0.1827937810393977
+documented_clean_final,NMF_FALLBACK,12,8,contract,0.1659068631583029
+documented_clean_final,NMF_FALLBACK,12,9,group,0.1604791163457321
+documented_clean_final,NMF_FALLBACK,12,10,engineers,0.14787719907295468
+documented_clean_final,NMF_FALLBACK,12,11,direct,0.14414637043921016
+documented_clean_final,NMF_FALLBACK,12,12,years,0.14057319551321076
+documented_clean_final,NMF_FALLBACK,12,13,contract engineers,0.13415870496786725
+documented_clean_final,NMF_FALLBACK,12,14,age,0.1316834150961306
+documented_clean_final,NMF_FALLBACK,12,15,prasar,0.12647030595882272
+documented_clean_final,NMF_FALLBACK,12,16,notification,0.12191563296348674
+documented_clean_final,NMF_FALLBACK,12,17,contract employees,0.12174368148674056
+documented_clean_final,NMF_FALLBACK,12,18,prasar bharati,0.12085175469755498
+documented_clean_final,NMF_FALLBACK,12,19,rules gsr,0.11983350424118348
+documented_clean_final,NMF_FALLBACK,12,20,store,0.11030006004932937
+documented_clean_final,NMF_FALLBACK,13,1,port,0.3634815413441732
+documented_clean_final,NMF_FALLBACK,13,2,surface,0.31152747514615386
+documented_clean_final,NMF_FALLBACK,13,3,surface transport,0.29571800281529587
+documented_clean_final,NMF_FALLBACK,13,4,transport,0.2614494703463464
+documented_clean_final,NMF_FALLBACK,13,5,gsr,0.20741941013301232
+documented_clean_final,NMF_FALLBACK,13,6,port trust,0.2068426862487828
+documented_clean_final,NMF_FALLBACK,13,7,trust,0.17366492675512446
+documented_clean_final,NMF_FALLBACK,13,8,regulation,0.15305988132212245
+documented_clean_final,NMF_FALLBACK,13,9,cochin port,0.14221738346991616
+documented_clean_final,NMF_FALLBACK,13,10,employees,0.1374873452492359
+documented_clean_final,NMF_FALLBACK,13,11,tbe,0.13271434736071974
+documented_clean_final,NMF_FALLBACK,13,12,cochin,0.1186387744780059
+documented_clean_final,NMF_FALLBACK,13,13,recruitment,0.11801322337359775
+documented_clean_final,NMF_FALLBACK,13,14,fees order,0.10893694510839044
+documented_clean_final,NMF_FALLBACK,13,15,port employees,0.10693178695419
+documented_clean_final,NMF_FALLBACK,13,16,foot,0.104717858665513
+documented_clean_final,NMF_FALLBACK,13,17,order,0.10341120287525658
+documented_clean_final,NMF_FALLBACK,13,18,gazette,0.1000271681148672
+documented_clean_final,NMF_FALLBACK,13,19,notification,0.09820222722295636
+documented_clean_final,NMF_FALLBACK,13,20,trust employees,0.09764156706360776
+documented_clean_final,NMF_FALLBACK,14,1,consumer,0.3717393705363648
+documented_clean_final,NMF_FALLBACK,14,2,food,0.3234445892797268
+documented_clean_final,NMF_FALLBACK,14,3,public distribution,0.27871331088982815
+documented_clean_final,NMF_FALLBACK,14,4,food public,0.271648392394069
+documented_clean_final,NMF_FALLBACK,14,5,consumer affairs,0.20684753424850905
+documented_clean_final,NMF_FALLBACK,14,6,distribution,0.20252469298041456
+documented_clean_final,NMF_FALLBACK,14,7,vegetable,0.16966560850373458
+documented_clean_final,NMF_FALLBACK,14,8,packages,0.1685729567583705
+documented_clean_final,NMF_FALLBACK,14,9,affairs food,0.16783487350710793
+documented_clean_final,NMF_FALLBACK,14,10,consumer protection,0.14607179535597936
+documented_clean_final,NMF_FALLBACK,14,11,packaged,0.13364607373788215
+documented_clean_final,NMF_FALLBACK,14,12,vegetable oil,0.1336335317397927
+documented_clean_final,NMF_FALLBACK,14,13,distribution food,0.12704542323767706
+documented_clean_final,NMF_FALLBACK,14,14,protection,0.12467068083052388
+documented_clean_final,NMF_FALLBACK,14,15,commodities rules,0.11945797834067096
+documented_clean_final,NMF_FALLBACK,14,16,packaged commodities,0.11775313325667315
+documented_clean_final,NMF_FALLBACK,14,17,oil products,0.11684385221332168
+documented_clean_final,NMF_FALLBACK,14,18,gsr,0.11282717236248706
+documented_clean_final,NMF_FALLBACK,14,19,edible,0.10980562977294932
+documented_clean_final,NMF_FALLBACK,14,20,public,0.10089069773531434
+documented_clean_final,NMF_FALLBACK,15,1,ombudsman,0.8134935130689082
+documented_clean_final,NMF_FALLBACK,15,2,insurance ombudsman,0.6624014303034299
+documented_clean_final,NMF_FALLBACK,15,3,insurance,0.4075293526872253
+documented_clean_final,NMF_FALLBACK,15,4,ombudsman rules,0.3377410508420497
+documented_clean_final,NMF_FALLBACK,15,5,insurers,0.18088843823748726
+documented_clean_final,NMF_FALLBACK,15,6,ecoi,0.08549965710492421
+documented_clean_final,NMF_FALLBACK,15,7,complaints,0.0826695020924138
+documented_clean_final,NMF_FALLBACK,15,8,xx,0.07931499565648129
+documented_clean_final,NMF_FALLBACK,15,9,xx xx,0.06812117150073747
+documented_clean_final,NMF_FALLBACK,15,10,financial services,0.06174924025078904
+documented_clean_final,NMF_FALLBACK,15,11,council insurers,0.060030059918782096
+documented_clean_final,NMF_FALLBACK,15,12,experience insurance,0.05861086739289968
+documented_clean_final,NMF_FALLBACK,15,13,4th 17th,0.05716320128406502
+documented_clean_final,NMF_FALLBACK,15,14,selection criteria,0.05588833979986211
+documented_clean_final,NMF_FALLBACK,15,15,executive council,0.055575798772738036
+documented_clean_final,NMF_FALLBACK,15,16,finance financial,0.05530780103374264
+documented_clean_final,NMF_FALLBACK,15,17,rule insurance,0.0546184200807922
+documented_clean_final,NMF_FALLBACK,15,18,policy holders,0.051442158760154726
+documented_clean_final,NMF_FALLBACK,15,19,council,0.0510186111226856
+documented_clean_final,NMF_FALLBACK,15,20,insurance industry,0.04859169752753573
+documented_clean_final,NMF_FALLBACK,16,1,gsr,0.24711118412341554
+documented_clean_final,NMF_FALLBACK,16,2,delay,0.2426349986985884
+documented_clean_final,NMF_FALLBACK,16,3,final,0.1836900046818179
+documented_clean_final,NMF_FALLBACK,16,4,chairman,0.18223099196434522
+documented_clean_final,NMF_FALLBACK,16,5,notification,0.18019500883006734
+documented_clean_final,NMF_FALLBACK,16,6,publication,0.16648081127800138
+documented_clean_final,NMF_FALLBACK,16,7,rules gsr,0.14987425538694654
+documented_clean_final,NMF_FALLBACK,16,8,objections,0.14693349894028374
+documented_clean_final,NMF_FALLBACK,16,9,months,0.14375491425057277
+documented_clean_final,NMF_FALLBACK,16,10,objections suggestions,0.14339710008908121
+documented_clean_final,NMF_FALLBACK,16,11,karunakaran,0.14223083019686855
+documented_clean_final,NMF_FALLBACK,16,12,xx,0.1413460217143442
+documented_clean_final,NMF_FALLBACK,16,13,natural gas,0.14126798607916835
+documented_clean_final,NMF_FALLBACK,16,14,draft,0.13806562797902933
+documented_clean_final,NMF_FALLBACK,16,15,gas,0.13742678378867057
+documented_clean_final,NMF_FALLBACK,16,16,final rules,0.13276885356503054
+documented_clean_final,NMF_FALLBACK,16,17,karunakaran chairman,0.12933695605943749
+documented_clean_final,NMF_FALLBACK,16,18,drugs,0.12920007590191573
+documented_clean_final,NMF_FALLBACK,16,19,suggestions,0.12498553976362846
+documented_clean_final,NMF_FALLBACK,16,20,draft rules,0.12245864892918136
+documented_clean_final,NMF_FALLBACK,17,1,waste,0.8162401320324822
+documented_clean_final,NMF_FALLBACK,17,2,waste management,0.2399132451876709
+documented_clean_final,NMF_FALLBACK,17,3,recycling,0.200308246251989
+documented_clean_final,NMF_FALLBACK,17,4,management,0.18158723574735963
+documented_clean_final,NMF_FALLBACK,17,5,environment,0.16286197300272215
+documented_clean_final,NMF_FALLBACK,17,6,technology,0.13454368476207237
+documented_clean_final,NMF_FALLBACK,17,7,pollution control,0.13052099075453122
+documented_clean_final,NMF_FALLBACK,17,8,information technology,0.12622764122807853
+documented_clean_final,NMF_FALLBACK,17,9,recyclers,0.12354031347699565
+documented_clean_final,NMF_FALLBACK,17,10,pollution,0.1208807126113339
+documented_clean_final,NMF_FALLBACK,17,11,spcbs,0.11883618963445788
+documented_clean_final,NMF_FALLBACK,17,12,sbm,0.10668169678694824
+documented_clean_final,NMF_FALLBACK,17,13,cpcb,0.10421927054619132
+documented_clean_final,NMF_FALLBACK,17,14,climate change,0.1020963136377909
+documented_clean_final,NMF_FALLBACK,17,15,climate,0.10209479994909679
+documented_clean_final,NMF_FALLBACK,17,16,handling,0.08455980259262469
+documented_clean_final,NMF_FALLBACK,17,17,electronics,0.08232284071850424
+documented_clean_final,NMF_FALLBACK,17,18,forests climate,0.0808629900777651
+documented_clean_final,NMF_FALLBACK,17,19,sanitation,0.07809808398245911
+documented_clean_final,NMF_FALLBACK,17,20,deity,0.07778441496442277
+documented_clean_final,NMF_FALLBACK,18,1,appellant,0.2498667962333425
+documented_clean_final,NMF_FALLBACK,18,2,appellate tribunal,0.21688834569251264
+documented_clean_final,NMF_FALLBACK,18,3,defect,0.1929914957091422
+documented_clean_final,NMF_FALLBACK,18,4,tribunal,0.17874523892191305
+documented_clean_final,NMF_FALLBACK,18,5,appellate,0.16989689312960213
+documented_clean_final,NMF_FALLBACK,18,6,appeal,0.16676712448752806
+documented_clean_final,NMF_FALLBACK,18,7,appellant rectify,0.153381169048725
+documented_clean_final,NMF_FALLBACK,18,8,recruitment placement,0.13929717394954214
+documented_clean_final,NMF_FALLBACK,18,9,registrar,0.13399235197141446
+documented_clean_final,NMF_FALLBACK,18,10,seafarers,0.127177033143154
+documented_clean_final,NMF_FALLBACK,18,11,diagnostic,0.1250370593127934
+documented_clean_final,NMF_FALLBACK,18,12,securities appellate,0.12037661289419858
+documented_clean_final,NMF_FALLBACK,18,13,appeal securities,0.11865007780634537
+documented_clean_final,NMF_FALLBACK,18,14,insurance appeal,0.11865007780634537
+documented_clean_final,NMF_FALLBACK,18,15,placement seafarers,0.11724875079813069
+documented_clean_final,NMF_FALLBACK,18,16,rectify defect,0.11415938597353321
+documented_clean_final,NMF_FALLBACK,18,17,seafarers rules,0.11131253386231384
+documented_clean_final,NMF_FALLBACK,18,18,shipping recruitment,0.106708046286357
+documented_clean_final,NMF_FALLBACK,18,19,memorandum appeal,0.105081717736508
+documented_clean_final,NMF_FALLBACK,18,20,placement,0.10391192918142385
+documented_clean_final,NMF_FALLBACK,19,1,nuclear,0.4905845144068487
+documented_clean_final,NMF_FALLBACK,19,2,liability,0.2854197454421821
+documented_clean_final,NMF_FALLBACK,19,3,clnd,0.2706261739923149
+documented_clean_final,NMF_FALLBACK,19,4,atomic energy,0.22353674693932107
+documented_clean_final,NMF_FALLBACK,19,5,operator,0.2216113238797595
+documented_clean_final,NMF_FALLBACK,19,6,atomic,0.2214234448422335
+documented_clean_final,NMF_FALLBACK,19,7,supplier,0.2212509491278568
+documented_clean_final,NMF_FALLBACK,19,8,nuclear damage,0.21979089966771606
+documented_clean_final,NMF_FALLBACK,19,9,clnd act,0.20431229032399503
+documented_clean_final,NMF_FALLBACK,19,10,rule 24,0.19259105477235502
+documented_clean_final,NMF_FALLBACK,19,11,right recourse,0.19009255035710756
+documented_clean_final,NMF_FALLBACK,19,12,damage,0.1827186823229952
+documented_clean_final,NMF_FALLBACK,19,13,energy,0.1821973870986914
+documented_clean_final,NMF_FALLBACK,19,14,act,0.16384877420167995
+documented_clean_final,NMF_FALLBACK,19,15,recourse,0.15390783379857084
+documented_clean_final,NMF_FALLBACK,19,16,claims,0.14857952569786
+documented_clean_final,NMF_FALLBACK,19,17,clnd rules,0.12814938324346864
+documented_clean_final,NMF_FALLBACK,19,18,dae,0.121820680848559
+documented_clean_final,NMF_FALLBACK,19,19,nuclear incident,0.11903193854399437
+documented_clean_final,NMF_FALLBACK,19,20,incident,0.11015085670228218

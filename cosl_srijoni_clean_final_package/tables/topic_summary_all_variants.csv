@@ -1,0 +1,81 @@
+variant,topic,top_keywords,model_type,n_docs
+baseline_remove_short,0,"1976, 1975, 1977, 1974, department, 1973, order, rules 1976, retrospective, rules 1975",NMF_FALLBACK,30
+baseline_remove_short,1,"2008, rules 2008, 2010, 2009, 2007, 2005, 2006, competition, delay, chairman",NMF_FALLBACK,17
+baseline_remove_short,2,"2021, 2022, observations recommendations, 2017, 2020, appellate tribunal, appellant, appellate, rules 2017, recommendations contained",NMF_FALLBACK,11
+baseline_remove_short,3,"1992, 1991, 1993, surface, port, surface transport, 1994, rules 1992, transport, regulations",NMF_FALLBACK,25
+baseline_remove_short,4,"2014, recruitment, recruitment rules, 2013, group, tasking, multi tasking, 2015, tasking staff, posts",NMF_FALLBACK,11
+baseline_remove_short,5,"1957, 1958, section, bye, 1954, central, board, 1959, 1955, 1956",NMF_FALLBACK,35
+baseline_remove_short,6,"2010, 2012, 2011, 2009, 2013, department, rules 2010, delay, rules 2009, karunakaran",NMF_FALLBACK,20
+baseline_remove_short,7,"tobacco, tobacco products, cigarettes, bidi, health, warnings, products, smoking, warning, beedi",NMF_FALLBACK,4
+baseline_remove_short,8,"2004, contained thirteenth, rules 2004, 2010, science technology, thirteenth, 2004 2004, 2005, department science, science",NMF_FALLBACK,7
+baseline_remove_short,9,"medical, ayush, council, ayurveda, homeopathy, medicine, colleges, students, doctors, medical council",NMF_FALLBACK,10
+baseline_remove_short,10,"2023, 2022, 2021, regulations, dated 2023, framing, chairperson, rules regulations, national green, green tribunal",NMF_FALLBACK,10
+baseline_remove_short,11,"1969, 1968, 1971, 1970, service, rules 1969, 1972, railway, 1967, recruitment",NMF_FALLBACK,24
+baseline_remove_short,12,"1978, 1980, 1979, department, 1983, 1981, 1982, recruitment, rules 1978, service",NMF_FALLBACK,36
+baseline_remove_short,13,"2016, irdai, regulations, regulations 2016, insurance, solvency, actuary, appointed actuary, solvency margin, regulatory development",NMF_FALLBACK,5
+baseline_remove_short,14,"pension, pension scheme, employees, scheme, option, salary, pension regulations, average, employees pension, bank",NMF_FALLBACK,5
+baseline_remove_short,15,"information technology, technology, information, 2013, communications information, money laundering, laundering, cyber, prevention money, technology department",NMF_FALLBACK,9
+baseline_remove_short,16,"2002, 1997, 1996, 2003, 2000, recruitment, 2001, 1998, 1995, 1999",NMF_FALLBACK,36
+baseline_remove_short,17,"customs, commissioner customs, 2018, commissioner, manifest, regulations 2018, 2021, transhipment, regulations, carrier",NMF_FALLBACK,8
+baseline_remove_short,18,"waste, 2017, 2016, real estate, 2018, rera, aiims, estate, real, waste management",NMF_FALLBACK,17
+baseline_remove_short,19,"ombudsman, insurance ombudsman, insurance, ombudsman rules, rules 2017, insurers, 2017, complaints, ecoi, department financial",NMF_FALLBACK,3
+documented_clean_final,0,"act, recruitment, service, order, recruitment rules, early, date, amend, effect, desire",NMF_FALLBACK,59
+documented_clean_final,1,"recruitment, recruitment rules, tasking, multi tasking, tasking staff, posts, group, multi, post, xx",NMF_FALLBACK,13
+documented_clean_final,2,"act, framing, framed, national, real estate, aiims, framing rules, delay, laid, estate",NMF_FALLBACK,25
+documented_clean_final,3,"contained thirteenth, science technology, thirteenth, science, technology, hissar group, hissar, technical rules, makhana, makhana grading",NMF_FALLBACK,5
+documented_clean_final,4,"ifs, service, promotion, cadre, grade, officers, foreign service, indian foreign, foreign, external",NMF_FALLBACK,10
+documented_clean_final,5,"tobacco, tobacco products, cigarettes, bidi, health, warnings, products, smoking, warning, beedi",NMF_FALLBACK,4
+documented_clean_final,6,"tbe, tbat, tile, act, tea, tho, corporation, law, matter, food",NMF_FALLBACK,23
+documented_clean_final,7,"xx, xx xx, customs, commissioner customs, 2021, commissioner, manifest, transhipment, chairperson, seventeenth",NMF_FALLBACK,13
+documented_clean_final,8,"medical, ayush, ayurveda, council, homeopathy, medicine, colleges, students, medical council, doctors",NMF_FALLBACK,8
+documented_clean_final,9,"act, bye, board, cantonment, bye laws, order, laws, orders, state, laid",NMF_FALLBACK,34
+documented_clean_final,10,"irdai, insurance, solvency, solvency margin, regulatory development, insurance regulatory, actuary, appointed actuary, liabilities, assets",NMF_FALLBACK,4
+documented_clean_final,11,"pension, rbi, pension scheme, employees, scheme, cpf, option, rbi act, rbi pension, salary",NMF_FALLBACK,4
+documented_clean_final,12,"recruitment, recruitment rules, probation, gsr, direct recruits, promotees, recruits, contract, group, engineers",NMF_FALLBACK,25
+documented_clean_final,13,"port, surface, surface transport, transport, gsr, port trust, trust, regulation, cochin port, employees",NMF_FALLBACK,25
+documented_clean_final,14,"consumer, food, public distribution, food public, consumer affairs, distribution, vegetable, packages, affairs food, consumer protection",NMF_FALLBACK,13
+documented_clean_final,15,"ombudsman, insurance ombudsman, insurance, ombudsman rules, insurers, ecoi, complaints, xx, xx xx, financial services",NMF_FALLBACK,2
+documented_clean_final,16,"gsr, delay, final, chairman, notification, publication, rules gsr, objections, months, objections suggestions",NMF_FALLBACK,41
+documented_clean_final,17,"waste, waste management, recycling, management, environment, technology, pollution control, information technology, recyclers, pollution",NMF_FALLBACK,5
+documented_clean_final,18,"appellant, appellate tribunal, defect, tribunal, appellate, appeal, appellant rectify, recruitment placement, registrar, seafarers",NMF_FALLBACK,7
+documented_clean_final,19,"nuclear, liability, clnd, atomic energy, operator, atomic, supplier, nuclear damage, clnd act, rule 24",NMF_FALLBACK,3
+keep_short,0,"1977, 1976, 1975, department, 1978, 1974, act, recruitment, service, order",NMF_FALLBACK,36
+keep_short,1,"2005, 2003, 2004, 2006, 2002, 2007, notification, delay, laid, gsr",NMF_FALLBACK,21
+keep_short,2,"xx, xx xx, 2021, 2017, observations recommendations, 2022, 2020, ombudsman, rules 2017, insurance ombudsman",NMF_FALLBACK,13
+keep_short,3,"1992, 1991, 1993, surface, port, gsr, surface transport, 1992 gsr, 1994, tbe",NMF_FALLBACK,22
+keep_short,4,"act, 1957, 1958, section, bye, central, state, 1954, 1959, 1953",NMF_FALLBACK,31
+keep_short,5,"2014, 2013, recruitment, recruitment rules, 2015, tasking, multi tasking, rules 2013, tasking staff, group",NMF_FALLBACK,12
+keep_short,6,"2010, 2012, 2011, 2009, 2013, gsr, 2010 gsr, 2009 gsr, department, rules 2010",NMF_FALLBACK,18
+keep_short,7,"contained thirteenth, 2004, 2010, rules 2004, science technology, thirteenth, science, department science, hissar, hissar group",NMF_FALLBACK,5
+keep_short,8,"1997, recruitment, 1996, 2000, 1995, 1998, 2002, recruitment rules, 1999, probation",NMF_FALLBACK,26
+keep_short,9,"tbe, 1983, 1980, 1978, 1982, 1981, 1984, 1979, department, 1985",NMF_FALLBACK,35
+keep_short,10,"medical, ayush, council, ayurveda, colleges, homeopathy, medicine, students, doctors, medical council",NMF_FALLBACK,8
+keep_short,11,"tobacco, tobacco products, cigarettes, bidi, warnings, health, products, smoking, beedi, warning",NMF_FALLBACK,4
+keep_short,12,"2016, irdai, regulations, insurance, regulations 2016, solvency, actuary, appointed actuary, regulatory development, insurance regulatory",NMF_FALLBACK,4
+keep_short,13,"customs, commissioner customs, commissioner, 2018, manifest, transhipment, regulations 2018, regulations, carrier, 2021",NMF_FALLBACK,5
+keep_short,14,"pension, rbi, pension scheme, employees, scheme, cpf, option, rbi act, rbi pension, salary",NMF_FALLBACK,4
+keep_short,15,"2008, rules 2008, 2008 gsr, 2010, competition, 2009, 2011, electronics, chairman, karunakaran",NMF_FALLBACK,14
+keep_short,16,"nuclear, liability, clnd, act, supplier, nuclear damage, atomic energy, operator, atomic, clnd act",NMF_FALLBACK,5
+keep_short,17,"2023, 2022, 2021, act, regulations, chairperson, xxx, framing, observations recommendations, xxx xxx",NMF_FALLBACK,12
+keep_short,18,"1969, 1968, 1971, 1970, service, 1972, rules 1969, railway, 1967, recruitment",NMF_FALLBACK,29
+keep_short,19,"waste, 2017, 2016, act, real estate, aiims, waste management, information technology, 2018, auction",NMF_FALLBACK,19
+keep_short_remove_years,0,"department, recruitment, act, service, order, central, recruitment rules, early, amend, effect",NMF_FALLBACK,57
+keep_short_remove_years,1,"recruitment, recruitment rules, tasking, multi tasking, tasking staff, multi, posts, group, post, xx",NMF_FALLBACK,13
+keep_short_remove_years,2,"act, bye, board, central, cantonment, section, bye laws, order, state, orders",NMF_FALLBACK,32
+keep_short_remove_years,3,"contained thirteenth, science technology, thirteenth, science, department science, hissar, hissar group, technology, technical rules, taken recommendations",NMF_FALLBACK,4
+keep_short_remove_years,4,"port, surface, surface transport, transport, gsr, regulations, port trust, trust, regulation, employees",NMF_FALLBACK,22
+keep_short_remove_years,5,"tobacco, tobacco products, cigarettes, bidi, health, warnings, products, smoking, beedi, warning",NMF_FALLBACK,4
+keep_short_remove_years,6,"tbe, tbat, tile, tea, act, law, department, tho, sbri, representative",NMF_FALLBACK,16
+keep_short_remove_years,7,"medical, ayush, ayurveda, council, homeopathy, medicine, colleges, students, medical council, doctors",NMF_FALLBACK,8
+keep_short_remove_years,8,"delay, gsr, notification, publication, amendment rules, xx, department, laid, final, table",NMF_FALLBACK,24
+keep_short_remove_years,9,"recruitment, recruitment rules, probation, direct recruits, promotees, recruits, gsr, group, contract, direct",NMF_FALLBACK,23
+keep_short_remove_years,10,"pension, rbi, pension scheme, employees, scheme, cpf, option, rbi act, rbi pension, salary",NMF_FALLBACK,4
+keep_short_remove_years,11,"corporation, food, air india, regulation, regulations, air, civil, employee, food civil, managing director",NMF_FALLBACK,13
+keep_short_remove_years,12,"customs, commissioner customs, commissioner, manifest, transhipment, carrier, regulations, xx, cargo, authorised carrier",NMF_FALLBACK,5
+keep_short_remove_years,13,"act, section, framing, framed, regulations, national, framing rules, real estate, aiims, rules regulations",NMF_FALLBACK,30
+keep_short_remove_years,14,"ifs, service, promotion, cadre, grade, foreign service, officers, indian foreign, foreign, external",NMF_FALLBACK,14
+keep_short_remove_years,15,"irdai, insurance, ombudsman, regulations, insurance ombudsman, insurance regulatory, regulatory development, solvency, actuary, appointed actuary",NMF_FALLBACK,6
+keep_short_remove_years,16,"xx, xx xx, observations recommendations, chairperson, seventeenth, recommendations contained, nil, 2021, observations, beas management",NMF_FALLBACK,20
+keep_short_remove_years,17,"waste, waste management, recycling, management, environment, technology, information technology, pollution control, recyclers, pollution",NMF_FALLBACK,5
+keep_short_remove_years,18,"natural gas, gas, petroleum natural, petroleum, tariff, natural, 2012, pipeline, gas regulatory, gas pipeline",NMF_FALLBACK,15
+keep_short_remove_years,19,"consumer, public distribution, food public, food, consumer affairs, distribution, vegetable, affairs food, packages, consumer protection",NMF_FALLBACK,8
